@@ -1,0 +1,17 @@
+<speak>
+2.1 <break time="400ms"/> Agree on Maxims <break time="800ms"/>
+Problem <break time="400ms"/> How do you establish a common sense of purpose in a team?
+
+<break time="800ms"/> Solution <break time="400ms"/> Establish the key priorities for the project and identify guiding principles that will help the team to stay on track.
+
+<break time="800ms"/>Discussion<break time="400ms"/> Any reengineering project must cope with a large number of conflicting interests.
+- Management wants to protect its legacy by improving competitiveness of its product and reducing maintenance costs.
+- Users want improved functionality without disrupting their established work patterns.
+- Developers and maintainers would like their jobs to become simpler without being made obsolete.
+
+Your team members may each have their own ideas about what a new system should look like.
+
+Unless there is a clear understand about certain fundamental questions, such as What is our business model? or Who is responsible for what? you risk that the team will be pulled apart by conflicting interests, and you will not achieve your goal. Maxims are rules of conduct that can help steer a project that is pulled in many directions. Goldberg and Rubin [GR95] give numerous examples of maxims, such as “Everyone is responsible for testing and debugging” and “You cannot do it right the first time.” All of the patterns in this chapter can be read as maxims (rather than as patterns), since they are intended to guide a team and keep it on track. A maxim like Most Valuable First, for example, is intended to prevent a team from squandering reengineering effort on technically interesting, but marginal aspects that neither protect nor add value to the legacy system. Agree on Maxims is itself a maxim, that can help a team detect when it is rudderless.
+
+A key point to remember is that any maxim may only have a limited lifetime. It is important to periodically reevaluate the validity of any maxims that have been adopted. A project can get completely off track if you agree on the wrong maxims, or the right ones but at the wrong time.
+</speak>
